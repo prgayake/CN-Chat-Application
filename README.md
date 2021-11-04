@@ -18,7 +18,7 @@ cd CN-Chat-Application.git
   <li>After download or clone run to install all the dependancies.</li>
 
 ```node
-npm install
+npm run dev
 ```
 
 <li>For Running Application <li>
